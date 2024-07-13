@@ -1,2 +1,7 @@
-apoio/
 venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+apoio.txt
