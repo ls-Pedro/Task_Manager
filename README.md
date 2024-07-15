@@ -3,6 +3,8 @@
 ![Badge](https://img.shields.io/badge/status-active-brightgreen)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
+**Under Development**
+
 Este projeto é um sistema de gerenciamento de tarefas (To-Do List) desenvolvido com Flask, uma biblioteca web leve para Python. O sistema permite que os usuários criem, leiam, atualizem e excluam tarefas, com uma interface web para interagir com o sistema. O projeto também inclui autenticação de usuários, uma funcionalidade crucial para gerenciar e proteger dados pessoais.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
